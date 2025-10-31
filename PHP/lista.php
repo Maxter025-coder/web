@@ -128,7 +128,7 @@ $mensaje = $_GET['mensaje'] ?? '';
     </table>
 
     <br>
-    <a class="button" href="../HTML/inicio.html">🏠 Volver al inicio</a>
+    <a class="button" href="../index.html">🏠 Volver al inicio</a>
     <button class="btn-volver" onclick="window.history.back()">⬅️ Atrás</button>
   </div>
 
@@ -149,4 +149,5 @@ $mensaje = $_GET['mensaje'] ?? '';
     }
   </script>
 </body>
+
 </html>
