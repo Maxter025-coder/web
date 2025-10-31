@@ -67,7 +67,7 @@ $mensaje = $_GET['mensaje'] ?? '';
 <head>
   <meta charset="UTF-8">
   <title>Listado de Personas</title>
-  <link rel="stylesheet" href="../CSS/style.css">
+  <link rel="stylesheet" href="../css/style.css">
 
 </head>
 <body>
@@ -151,3 +151,4 @@ $mensaje = $_GET['mensaje'] ?? '';
 </body>
 
 </html>
+
